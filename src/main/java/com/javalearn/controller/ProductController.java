@@ -20,7 +20,6 @@ import io.swagger.annotations.ApiResponses;
 @Api(value="onlinestore", description="Operations pertaining to products in Online Store")
 public class ProductController {
 
-	//Hello
 	@ApiResponses(
 			value ={
 					@ApiResponse(code=202, message="202 code response code"),
